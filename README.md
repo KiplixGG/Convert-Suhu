@@ -1,4 +1,4 @@
-# Tujuan 
+# Fungsi
 1. Untuk Convert Suhu
 
 # Cara Penggunaan
