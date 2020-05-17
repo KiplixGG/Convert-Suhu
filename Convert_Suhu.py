@@ -1,7 +1,7 @@
 # Author 	= Paijo
-# NickName   = COVID-19
-# Github	 = https://github.com/KiplixGG/Convert-Suhu
-# IG		 = @ahm_riski
+# NickName      = COVID-19
+# Github        = https://github.com/KiplixGG
+# IG	        = @ahm_riski
 # Contact	= 0895321579467
 
 
